@@ -1,2 +1,15 @@
-# Pruebaderedireccionarweb
-Es una web para redireccionar a otras páginas y crear así un sistema automatizado
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Redirigiendo...</title>
+</head>
+<body>
+
+    <h1>Redirigiendo...</h1>
+
+    <script>
+        window.location.href = "https://www.google.com";
+    </script>
+
+</body>
+</html>
